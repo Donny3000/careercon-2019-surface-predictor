@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Surface Predictor",
+				"type": "python",
+				"request": "launch",
+				"program": "surface_classification.py",
+				"console": "integratedTerminal",
+				"justMyCode": true
+			}
+		]
+	}
+}
